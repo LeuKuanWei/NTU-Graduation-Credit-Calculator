@@ -1,0 +1,5 @@
+{
+  "name": "NTU Graduation Credit Calculator",
+  "description": "A personal graduation credit calculator styled after the National Taiwan University academic system, featuring GPA calculation, course management, and progress tracking.",
+  "requestFramePermissions": []
+}
